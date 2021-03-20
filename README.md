@@ -1,5 +1,7 @@
 # Start-Here
-Learn more about me
+# Learn more about me
+
+![Headshot] (Git Headshot.jpg)
 
 
 ## **Who are you? What is your background?**
