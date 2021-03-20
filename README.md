@@ -1,7 +1,7 @@
 # Start-Here
 # Learn more about me
 
-![Covid Selfie-Stick Headshot] (Git_Headshot.jpg)
+![Covid Selfie-Stick Headshot] (images/Git_Headshot.jpg)
 
 
 ## **Who are you? What is your background?**
