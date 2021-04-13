@@ -1,5 +1,5 @@
 # Start-Here
-# Learn more about me
+# Thanks for checking out my GitHub profile! I'm still learning but feel free to take a look around starting here. 🎓
 
 ![Covid Selfie-Stick Headshot](images/Git_Headshot.jpg)
 
