@@ -10,8 +10,8 @@
 
 ## **What are your career goals?**
 
-* As of right now I'm still plotting my career course however, I would really like to pursue something within the FinTech space. I am currently looking into project management given my previous management experience, product development, or something in the blockchain space. 
+* As of right now I'm still plotting my career course however, I would really like to pursue something within the FinTech space. I am currently looking into project management given my previous management experience, product development, business intelligence, or something in the blockchain space. 
 
 ## **Why did you choose FinTech as a career path?**
 
-* I chose a career in FinTech in order to align myself more with where the future of finance is heading. I consider myself to be a lifetime learner and am really curious about what will be developed in this space in the future and would love to be a part of it. I love technology and am facinated by what you can accomplish with big data. I plan to expand my skillset in this more STEM realted field in order to remain employable and be able to understand the future of this emmerging technology. 
+* I chose a career in FinTech in order to align myself more with where the future of finance is heading. I consider myself to be a lifetime learner and am really curious about what will be developed in this space in the future and would love to be a part of it. I love technology and am facinated by what you can accomplish with big data. I plan to expand my skillset in this more STEM realted field in order to remain employable and be able to understand the future of these emmerging technologies. 
