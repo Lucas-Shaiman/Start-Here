@@ -1,7 +1,7 @@
 # Start-Here
 # Thanks for checking out my GitHub profile! I'm still learning but feel free to take a look around starting here. 🎓
 
-![Headshot](images/Git_Headshot.jpg)
+![Headshot](images/Git_Headshot.png)
 
 
 ## **Who are you? What is your background?**
